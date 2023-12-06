@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CallbackFunc            KEYWORD1
+numThread               KEYWORD1
+threadFunc              KEYWORD1
+threadInterval          KEYWORD1
+threadTime              KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+trheadSetup KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
